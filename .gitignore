@@ -1,0 +1,8 @@
+.DS_Store
+.vendor
+coreos-china.org
+.settings/
+*.log
+Thumbs.db
+.idea/
+coreos-china.org.exe
